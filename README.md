@@ -5,26 +5,27 @@ This project focuses on analysing a banking database to understand customer acco
 
 ## Database Structure
 The analysis is performed using three relational tables:
-•	Customers – customer demographic details
-•	Accounts – account balance, type, and opening date
-•	Transactions – deposit and withdrawal records
+
+1. Customers – customer demographic details
+2. Accounts – account balance, type, and opening date
+3. Transactions – deposit and withdrawal records
 
 ## Analysis Performed
 
 ### Customer & Balance Insights
-•	Identified customers with above-average account balances
-•	Analysed customers holding multiple bank accounts
-•	Compared city-wise average balance patterns
+1. Identified customers with above-average account balances.
+2. Analysed customers holding multiple bank accounts.
+3. Compared city-wise average balance patterns.
 
 ### Transaction Behaviour Insights
-•	Detected high-value transaction activities
-•	Identified inactive accounts with no transactions
-•	Analysed latest transaction trends
+1. Detected high-value transaction activities.
+2. Identified inactive accounts with no transactions.
+3. Analysed latest transaction trends
 
 ### Financial Performance Analysis
-•	Calculated total deposits, withdrawals, and average transaction value
-•	Measured customer total balance across accounts
-•	Evaluated account activity duration and high-value account status
+1. Calculated total deposits, withdrawals, and average transaction value.
+2. Measured customer total balance across accounts.
+3. Evaluated account activity duration and high-value account status
 
 ## Tools & Skills Used
 MySQL | Subqueries | Stored Procedures | SQL Functions
